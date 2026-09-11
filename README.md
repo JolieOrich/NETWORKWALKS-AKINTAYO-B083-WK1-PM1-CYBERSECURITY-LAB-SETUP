@@ -46,6 +46,11 @@ The purpose of this lab is to create a **self-contained, isolated virtual enviro
 
 | Setting | Value |
 |---|---|
+| Host OS | Microsoft Windows 11 Pro |
+| Host RAM | 16.0 GB |
+| Processor | 11th EliteBook 830 G8 Notebook PC |
+| Hypervisor | VirtualBox 7.2.8 |
+| Security OS | Kali Linux 2026.2 |
 | Network Type | NAT Network (VirtualBox) |
 | Network Name | NatNetwork |
 | IPv4 Prefix | 10.0.0.0/24 |
